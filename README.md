@@ -23,3 +23,5 @@ $ npm run dev
 ```
 
 Access the API via http://localhost:3000/api
+Access through Heroku : 
+https://apple-pie-48354.herokuapp.com/api/users
